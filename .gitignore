@@ -1,0 +1,12 @@
+*.pt
+*.pth
+*.weights
+*.onnx
+runs/
+results/
+logs/
+wandb/
+__pycache__/
+.idea/
+.vscode/
+.DS_Store
